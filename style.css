@@ -1,0 +1,123 @@
+.h1 {
+	text-align: center;
+	margin: 40px;
+}
+
+.ozgecmis {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.h2 {
+	background-color: gray;
+}
+
+.b {
+	margin-left: 15px;
+	font-size: 15px;
+}
+.h4 {
+	margin-bottom: 10px;
+}
+
+
+
+.hed{
+ margin: 70px;
+}
+
+.Main{
+    margin: 70px;
+}
+
+
+
+.hakkinda{
+
+    width: 60%;
+    color: white;
+    float: right;
+    border-radius: 10px;
+}
+
+
+.tab{
+width: 70%;
+background: url(img/arka.jpeg);
+color: white;
+}
+
+.tab h2 {
+padding-top: 20px;
+text-align: center;
+}
+
+.tab p{
+padding: 20px;
+
+}
+
+
+
+.kizil{
+margin-top: 150px;
+border-color:rgb(40, 40, 206);
+
+}
+.kizil h3{
+color: rgb(40, 40, 206);
+text-align: center;
+padding: 30px;
+
+}
+
+.kizil p{
+    color:rgb(40, 40, 206);;
+    padding: 20px;
+    padding-bottom: 80px;
+}
+
+
+.body{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color:rgb(250, 246, 246);
+
+}
+
+.m{
+    color: white;
+}
+.imge{
+   margin-top: 20px;
+    height: 400px;
+}
+
+.miras{
+
+margin: 70px;
+border-color: rgb(40, 40, 206);
+margin-top: 150px;
+}
+.miras h3{
+    color: rgb(40, 40, 206);;
+    text-align: center;
+    padding: 30px;
+    
+    }
+    
+.miras p{
+        color: rgb(40, 40, 206);;
+        padding: 20px;
+        padding-bottom: 40px;
+    }
+
+.iletesim{
+    background-color:bisque ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sehrim{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(247, 244, 240);
+}
+

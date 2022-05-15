@@ -1,0 +1,77 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	background: url(img/logo2.jpeg);
+	background-size: cover;
+}
+form {
+	margin: auto;
+	top: 150px;
+	left: 150px;
+	width: 305px;
+	height: 325px;
+	background: rgba(0, 0, 0, .5);
+	border-radius: 15px;
+	box-sizing: border-box;
+}
+h2 {
+	color: white;
+	text-align: center;
+	margin-top: 190px;
+	padding: 30px;
+	padding-bottom: 10px;
+}
+
+input[type="email"],
+[ type="password"] {
+	outline: none;
+	border: none;
+	width: 280px;
+	height: 20px;
+	border-bottom: 2px solid #ffa600;
+	margin-left: 10px;
+	background: none;
+	color: white;
+	margin-top: 10px;
+}
+
+input[ type="password"] {
+	margin-top: 15px;
+}
+input[type="submit"]:hover {
+	background: #fff;
+	color: #ffa600;
+}
+::placeholder {
+	color: #fff;
+}
+input[value="GÖNDER"] {
+	top: 270px;
+	left: 85px;
+	width: 110px;
+	height: 30px;
+	background: #ffa600;
+	border: none;
+	outline: none;
+	color: #fff;
+	border-radius: 15px;
+	font-size: 16px;
+	margin-top: 75px;
+	margin-left: 90px;
+}
+div {
+	color: rgb(0, 255, 13);
+	margin-left: 10px;
+}
+p {
+	margin-bottom: 10px;
+	margin-top: -125px;
+	color: red;
+}
+a {
+	color: red;
+}
+h4 {
+	margin-top: -110px;
+}
